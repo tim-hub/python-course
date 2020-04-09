@@ -1,3 +1,3 @@
 # Untitled
 
-{% include "./components/license.md" %}
+{% include "../components/license.md" %}
