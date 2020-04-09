@@ -1,9 +1,8 @@
 # Table of contents
 
-* [About](README.md)
-* [LICENSE](license.md)
+<!-- * [About](README.md)
+* [LICENSE](license.md) -->
 
 ## init
 
-* [Untitled](init/untitled.md)
-
+-   [Untitled](init/untitled.md)
