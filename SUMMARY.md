@@ -34,6 +34,7 @@
 
 ## References
 
+* [Advanced Topic](references/advanced-topic.md)
 * [Blog](https://tim.bai.uno)
 * [Github Repo](https://github.com/tim-hub/python-course)
 
