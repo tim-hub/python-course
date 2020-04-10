@@ -4,7 +4,8 @@
 
 ## Before Start <a id="init"></a>
 
-* [1 Getting Started](init/started.md)
+* [1 Getting Started](init/started/README.md)
+  * [About Repl.it \(Optional\)](init/started/about-repl.it-optional.md)
 
 ## Core
 
