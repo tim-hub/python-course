@@ -16,6 +16,8 @@ Most of time, last time quiz and assignment will be explained at the next sessio
   
 This will be the first session of the course.
 
+{% embed url="https://www.youtube.com/watch?v=xVAG1j4WMB8" %}
+
 
 
 ### Assignment
