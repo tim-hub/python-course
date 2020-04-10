@@ -30,7 +30,9 @@
 
 ## Pandas Basic <a id="pandas-basic-for-data-analysis"></a>
 
-* [Untitled](pandas-basic-for-data-analysis/untitled.md)
+* [Third Party Packages](pandas-basic-for-data-analysis/packages.md)
+* [Pandas Basic](pandas-basic-for-data-analysis/pandas-basic/README.md)
+  * [Untitled](pandas-basic-for-data-analysis/pandas-basic/untitled.md)
 
 ## Peroration <a id="references"></a>
 
