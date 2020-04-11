@@ -5,7 +5,8 @@
 ## Before Start <a id="init"></a>
 
 * [1 Getting Started](init/started/README.md)
-  * [About Repl.it \(Optional\)](init/started/about-repl.it-optional.md)
+  * [1.1 Practice](init/started/1.1-practice.md)
+  * [1.2 Quiz](init/started/1.2-quiz.md)
 
 ## Core
 

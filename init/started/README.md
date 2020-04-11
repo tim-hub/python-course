@@ -10,48 +10,13 @@ For each section, there usually will be 4 parts.
 
 1. Video session
 2. Guide, slides or learning material
-3. Quiz, Question or Assignment
+3. Quiz, Question or Practice Assignment
 
 Most of time, last time quiz and assignment will be explained at the next session.  
   
 This will be the first session of the course.
 
-{% embed url="https://www.youtube.com/watch?v=xVAG1j4WMB8" %}
-
-
-
-### Assignment
-
-I do not think you need to use your time on environment setting up for now. The enviroment setting up will be covered in the future session.
-
-Run the code below \(Click the Run Button\), that will be your first python program.
-
-{% embed url="https://repl.it/@tim\_gitlab/hw" %}
-
-* `main.py` is the python file which stored your codes
-* the bottom part\(or right part\) is a Python REPL shell, feel free to play around it too, it must be in a container, you won't ruin it.
-
-
-
-### Quiz
-
-{% hint style="info" %}
-Think about the question below, which area do you want to work in?
-{% endhint %}
-
-Which area do you want to work in?
-
-* data \(science\)
-  * machine learning
-  * data analysis 
-  * data processing    
-* dev
-  * web development
-  * other software development
-
-
-
-
+{% embed url="https://www.youtube.com/watch?v=xVAG1j4WMB8" caption="1 Intro" %}
 
 ### References
 
