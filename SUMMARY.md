@@ -40,6 +40,7 @@
 
 * [Git and Dev Tools](references/git-and-dev-tools.md)
 * [Advanced Topic](references/advanced-topic.md)
+* [Contact](references/contact.md)
 * [Blog](https://tim.bai.uno)
 * [Github Repo](https://github.com/tim-hub/python-course)
 
