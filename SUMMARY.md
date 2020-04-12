@@ -14,13 +14,13 @@
 * [3 Strings](core/3-strings.md)
 * [4 Functions](core/4-functions.md)
 
-## Types
-
-* [Untitled](types/untitled.md)
-
 ## Conditions and Loops
 
 * [Untitled](conditions-and-loops/untitled.md)
+
+## Types
+
+* [Untitled](types/untitled.md)
 
 ## IO and API
 
