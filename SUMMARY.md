@@ -6,12 +6,15 @@
 
 * [1 Getting Started](init/started/README.md)
   * [1.1 Practice](init/started/1.1-practice.md)
-  * [1.2 Quiz](init/started/1.2-quiz.md)
+  * [1.2 Quiz](init/started/1.2-quiz/README.md)
+    * [Review](init/started/1.2-quiz/review.md)
 
 ## Core
 
 * [2 Numbers, Operators and Booleans](core/2-numbers-and-operators/README.md)
   * [2.1 Practice](core/2-numbers-and-operators/2.1-practice.md)
+  * [2.2 Quiz](core/2-numbers-and-operators/2.2-quiz.md)
+  * [2.3 Review](core/2-numbers-and-operators/2.3-review.md)
 * [3 Strings](core/3-strings.md)
 * [4 Functions and Variables](core/4-functions.md)
 
