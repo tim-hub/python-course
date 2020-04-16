@@ -13,7 +13,7 @@
 * [2 Numbers, Operators and Booleans](core/2-numbers-and-operators/README.md)
   * [2.1 Practice](core/2-numbers-and-operators/2.1-practice.md)
 * [3 Strings](core/3-strings.md)
-* [4 Functions](core/4-functions.md)
+* [4 Functions and Variables](core/4-functions.md)
 
 ## Conditions and Loops
 
