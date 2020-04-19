@@ -10,6 +10,7 @@
 
 ## Core
 
+* [Untitled](core/untitled.md)
 * [2 Numbers, Operators and Booleans](core/2-numbers-and-operators/README.md)
   * [2.1 Practice](core/2-numbers-and-operators/2.1-practice/README.md)
     * [Review](core/2-numbers-and-operators/2.1-practice/review.md)
