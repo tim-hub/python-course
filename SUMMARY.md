@@ -47,4 +47,5 @@
 * [Contact](references/contact.md)
 * [Blog](https://tim.bai.uno)
 * [Github Repo](https://github.com/tim-hub/python-course)
+* [2.2 Quiz Numbers](https://quiz.tim.bai.uno/question/numbers)
 
