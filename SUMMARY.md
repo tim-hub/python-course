@@ -10,11 +10,10 @@
 
 ## Core
 
-* [Untitled](core/untitled.md)
 * [2 Numbers, Operators and Booleans](core/2-numbers-and-operators/README.md)
   * [2.1 Practice](core/2-numbers-and-operators/2.1-practice/README.md)
     * [Review](core/2-numbers-and-operators/2.1-practice/review.md)
-  * [2.2 Quiz](core/2-numbers-and-operators/2.2-quiz.md)
+  * [2.2 Quiz Numbers](https://quiz.tim.bai.uno/question/numbers)
 * [3 Strings](core/3-strings.md)
 * [4 Functions and Variables](core/4-functions.md)
 
@@ -47,5 +46,4 @@
 * [Contact](references/contact.md)
 * [Blog](https://tim.bai.uno)
 * [Github Repo](https://github.com/tim-hub/python-course)
-* [2.2 Quiz Numbers](https://quiz.tim.bai.uno/question/numbers)
 
