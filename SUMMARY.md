@@ -14,7 +14,9 @@
   * [2.1 Practice](core/2-numbers-and-operators/2.1-practice/README.md)
     * [Review](core/2-numbers-and-operators/2.1-practice/review.md)
   * [2.2 Quiz Numbers](https://quiz.tim.bai.uno/question/numbers)
-* [3 Strings](core/3-strings.md)
+* [3 Strings](core/3-strings/README.md)
+  * [3.1 Practices](core/3-strings/3.1-practices.md)
+  * [3.2 Quiz](core/3-strings/3.2-quiz.md)
 * [4 Functions and Variables](core/4-functions.md)
 
 ## Conditions and Loops
