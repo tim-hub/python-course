@@ -1,2 +1,7 @@
-# Advanced Topic
+# Advanced Topics
+
+
+
+* Tensorflow
+* Kaggle Platform
 
