@@ -18,14 +18,13 @@
   * [3.1 Practices](core/3-strings/3.1-practices.md)
   * [3.2 Quiz](core/3-strings/3.2-quiz.md)
 * [4 Functions and Variables](core/4-functions.md)
+* [5 List](core/list.md)
 
 ## Conditions and Loops
 
 * [Untitled](conditions-and-loops/untitled.md)
 
-## Types
-
-* [Untitled](types/untitled.md)
+## More About Types <a id="types-x"></a>
 
 ## IO and API
 
