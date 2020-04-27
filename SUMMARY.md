@@ -7,6 +7,7 @@
 * [1 Getting Started](init/started/README.md)
   * [1.1 Practice](init/started/1.1-practice.md)
   * [1.2 Quiz](init/started/1.2-quiz.md)
+  * [1.3 Discord Discussion](init/started/1.3-discord-discussion.md)
 
 ## Core
 
@@ -23,8 +24,6 @@
 ## Conditions and Loops
 
 * [Untitled](conditions-and-loops/untitled.md)
-
-## More About Types <a id="types-x"></a>
 
 ## IO and API
 
@@ -45,6 +44,7 @@
 * [Git and Dev Tools](references/git-and-dev-tools.md)
 * [Advanced Topics](references/advanced-topic.md)
 * [Contact](references/contact.md)
-* [Blog](https://tim.bai.uno)
+* [Discord](https://discord.gg/VvCnuT)
+* [My Blog](https://tim.bai.uno/python-course/)
 * [Github Repo](https://github.com/tim-hub/python-course)
 
